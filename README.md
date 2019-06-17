@@ -1,29 +1,10 @@
 <<<<<<< HEAD
-# MyFirstblogOnGitHub
+# My First blog On GitHub
 A simple traing project
 =======
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple web application named as "Blog". Based on the MVC model it presentd with the standard REST resources.
+Some German added, i.e. "Hallo", "1.te Lection".
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 >>>>>>> https://github.com/WilhelmYakunin/MyFirstblogOnGitHub.git
